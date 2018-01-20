@@ -24,7 +24,7 @@ SECRET_KEY = 'xu(@nys%ufqhxeddl2k6=zl0b=qp^m)aoj5=xr1y)bh&_i(i2x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'Vermillion.pythonanywhere.com']
 
 # Application definition
 
